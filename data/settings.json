@@ -3,7 +3,7 @@
   "homeUrl": "https://nav.jobcher.com",
   "language": "zh-CN",
   "loading": "random",
-  "showGithub": true,
+  "showGithub": false,
   "title": "JOB导航 - 精选实用导航网站",
   "description": "JOB导航 - 精选实用导航网站",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,人工智能,福利",
