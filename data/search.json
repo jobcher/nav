@@ -19,14 +19,16 @@
     "url": "https://www.google.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "谷歌搜索"
   },
   {
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "bing搜索"
   },
   {
     "name": "GitHub",
@@ -41,7 +43,8 @@
     "url": "https://www.zhihu.com/search?type=content&q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "知乎搜索"
   },
   {
     "name": "豆瓣",
